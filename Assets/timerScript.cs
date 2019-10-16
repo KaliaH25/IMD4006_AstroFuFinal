@@ -12,7 +12,7 @@ public class timerScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        GameTime = 10;
+        GameTime = 120;
     }
 
     // Update is called once per frame
